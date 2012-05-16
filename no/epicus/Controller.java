@@ -2,8 +2,6 @@ package epicus;
 
 public class Controller {
 
-	
-	
 	/**
 	 * @param args
 	 */
